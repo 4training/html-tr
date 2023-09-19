@@ -1,0 +1,111 @@
+{
+    "language_code": "tr",
+    "english_name": "Turkish",
+    "worksheets": [
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "Allah'\u0131n Hik\u00e2yesi (ilk ve son kurban)",
+            "filename": "Allah\u0131n_Hik\u00e2yesi_(ilk_ve_son_kurban).html",
+            "version": "2.2",
+            "pdf": "Allah\u0131n_Hik\u00e2yesi_(ilk_ve_son_kurban).pdf"
+        },
+        {
+            "page": "Baptism",
+            "title": "Vaftiz",
+            "filename": "Vaftiz.html",
+            "version": "2.0b",
+            "pdf": "1B_Vaftiz.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Dua",
+            "filename": "Dua.html",
+            "version": "1.1",
+            "pdf": "Dua.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Ad\u0131m Ad\u0131m Affetmek",
+            "filename": "Ad\u0131m_Ad\u0131m_Affetmek.html",
+            "version": "1.1",
+            "pdf": "Ad\u0131m_Ad\u0131m_Affetmek.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "T\u00f6vbe Etmek",
+            "filename": "T\u00f6vbe_Etmek.html",
+            "version": "1.0",
+            "pdf": "T\u00f6vbe_Etmek.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Allah\u2019la zaman ge\u00e7irmek",
+            "filename": "Allahla_zaman_ge\u00e7irmek.html",
+            "version": "1.2",
+            "pdf": "Allahla_zaman_ge\u00e7irmek.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Tanr\u0131'y\u0131 Duymak",
+            "filename": "Tanr\u0131y\u0131_Duymak.html",
+            "version": "1.2",
+            "pdf": "Tanr\u0131y\u0131_Duymak.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "\u015eifa",
+            "filename": "\u015eifa.html",
+            "version": "1.0",
+            "pdf": "\u015eifa.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Kutsal Kitab\u0131 okuma ipu\u00e7lar\u0131",
+            "filename": "Kutsal_Kitab\u0131_okuma_ipu\u00e7lar\u0131.html",
+            "version": "2.0",
+            "pdf": "Kutsal_Kitab\u0131_okuma_ipu\u00e7lar\u0131.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Kutsal Kitab\u0131 okuma ipu\u00e7lar\u0131 (umut veren yedi hik\u00e2ye)",
+            "filename": "Kutsal_Kitab\u0131_okuma_ipu\u00e7lar\u0131_(umut_veren_yedi_hik\u00e2ye).html",
+            "version": "2.0",
+            "pdf": "Kutsal_Kitab\u0131_okuma_ipu\u00e7lar\u0131_(umut_veren_yedi_hik\u00e2ye).pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Kutsal Kitab\u0131 okuma ipu\u00e7lar\u0131 (yarat\u0131l\u0131\u015ftan ba\u015flayarak)",
+            "filename": "Kutsal_Kitab\u0131_okuma_ipu\u00e7lar\u0131_(yarat\u0131l\u0131\u015ftan_ba\u015flayarak).html",
+            "version": "2.0",
+            "pdf": "Kutsal_Kitab\u0131_okuma_ipu\u00e7lar\u0131_(yarat\u0131l\u0131\u015ftan_ba\u015flayarak).pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "\u00dc\u00e7 \u00fc\u00e7l\u00fck s\u00fcreci",
+            "filename": "\u00dc\u00e7_\u00fc\u00e7l\u00fck_s\u00fcreci.html",
+            "version": "1.0",
+            "pdf": "\u00dcc_\u00fccl\u00fck.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "G\u00fcnl\u00fck bir dua",
+            "filename": "G\u00fcnl\u00fck_bir_dua.html",
+            "version": "1.0",
+            "pdf": "G\u00fcnl\u00fck_bir_dua.pdf"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Korku ve \u00d6fkeyi A\u015fmak",
+            "filename": "Korku_ve_\u00d6fkeyi_A\u015fmak.html",
+            "version": "1.0",
+            "pdf": "Korku_ve_\u00d6fkeyi_A\u015fmak.pdf"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "\u00d6\u011frencilerin D\u00f6rt Farkl\u0131 T\u00fcr\u00fc",
+            "filename": "\u00d6\u011frencilerin_D\u00f6rt_Farkl\u0131_T\u00fcr\u00fc.html",
+            "version": "1.1",
+            "pdf": "\u00d6\u011frencilerin_D\u00f6rt_Farkl\u0131_T\u00fcr\u00fc.pdf"
+        }
+    ]
+}
